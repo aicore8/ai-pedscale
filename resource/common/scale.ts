@@ -1,4 +1,4 @@
-import { bool, num, record } from "@aifivem/lib/shared";
+import { bool, num, record } from "@aicore8/lib/shared";
 
 export const PLAIN: Scale = { height: 1, width: 1 };
 

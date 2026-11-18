@@ -1,6 +1,6 @@
-import { addCommand, notify, online } from "@aifivem/lib/server";
-import { createLogger } from "@aifivem/lib/shared";
-import { ADMIN } from "@aifivem/shared";
+import { addCommand, notify, online } from "@aicore8/lib/server";
+import { createLogger } from "@aicore8/lib/shared";
+import { ADMIN } from "@aicore8/shared";
 import { Locale, ResourceName } from "common";
 import { PLAIN } from "common/scale";
 import { sizes, view } from "./content";

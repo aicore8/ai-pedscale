@@ -1,4 +1,4 @@
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 import { range } from "./range";
 
 export const settingsFile: FileSpec = {

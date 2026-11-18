@@ -1,4 +1,4 @@
-import { onCharacter } from "@aifivem/lib/server";
+import { onCharacter } from "@aicore8/lib/server";
 import { sizes } from "./content";
 
 // Also replays the characters loaded before this script (re)started.

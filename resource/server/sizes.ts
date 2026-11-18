@@ -4,9 +4,9 @@ import {
   type AdminPanel,
   PlayerState,
   resourceExport,
-} from "@aifivem/lib/server";
-import { isRecord, num, str } from "@aifivem/lib/shared";
-import type { CharacterInfo } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { isRecord, num, str } from "@aicore8/lib/shared";
+import type { CharacterInfo } from "@aicore8/shared";
 import {
   PLAIN,
   SCALE_META,

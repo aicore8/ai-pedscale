@@ -5,7 +5,7 @@ import {
   playerPed,
   PlayerState,
   TickLoop,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { readSettings, SCALE_STATE, toScale, type Scale } from "common/scale";
 
 const world = new AdminWorld(["settings"]);

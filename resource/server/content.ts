@@ -1,4 +1,4 @@
-import { AdminPanel, aiLogChannels } from "@aifivem/lib/server";
+import { AdminPanel, aiLogChannels } from "@aicore8/lib/server";
 import { readSettings } from "common/scale";
 import { schema } from "./schema";
 import { Sizes } from "./sizes";

@@ -1,4 +1,4 @@
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 
 /** Everyone online with their size (filled by the script, never saved). */
 export const playersFile: FileSpec = {
