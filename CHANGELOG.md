@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-pedscale/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([2c2200d](https://github.com/aicore8/ai-pedscale/commit/2c2200dd3ea7a77d69afc13c4f09e326441332eb))
+
 ## [0.1.5](https://github.com/aicore8/ai-pedscale/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
